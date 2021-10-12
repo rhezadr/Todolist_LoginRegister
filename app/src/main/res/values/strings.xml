@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Todolist_LoginRegister</string>
+    <string name="RegisterText"><font color="#FF000000">Create new Account ? </font><u>click here</u></string>
+    <string name="LoginText"><font color="#FF000000">Already Have Account ? </font><u>click here</u></string>
+</resources>
